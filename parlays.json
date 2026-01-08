@@ -1,0 +1,174 @@
+[
+  {
+    "id": "parlay_1767797939134",
+    "timestamp": "2026-01-07T14:58:59.134Z",
+    "options": {
+      "legs": 4,
+      "mode": "normal",
+      "window": "last_10"
+    },
+    "meta": {
+      "totalOdds": "+1030",
+      "overallRisk": "High"
+    },
+    "picks": [
+      {
+        "player": "Giannis Antetokounmpo",
+        "market": "points",
+        "line": 34.5,
+        "confidence": 58.38181333900337,
+        "risk": "high",
+        "odds": -120
+      },
+      {
+        "player": "LeBron James",
+        "market": "points",
+        "line": 25.5,
+        "confidence": 58.115777120936016,
+        "risk": "high",
+        "odds": -120
+      },
+      {
+        "player": "Stephen Curry",
+        "market": "points",
+        "line": 28.5,
+        "confidence": 57.94612376303099,
+        "risk": "high",
+        "odds": -120
+      },
+      {
+        "player": "Stephen Curry",
+        "market": "threesMade",
+        "line": 5.5,
+        "confidence": 55.69310482869076,
+        "risk": "high",
+        "odds": -120
+      }
+    ]
+  },
+  {
+    "id": "parlay_1767797939141",
+    "timestamp": "2026-01-07T14:58:59.141Z",
+    "options": {
+      "legs": 5,
+      "mode": "moonshot",
+      "window": "last_15"
+    },
+    "meta": {
+      "totalOdds": "+1500",
+      "overallRisk": "Very High"
+    },
+    "picks": [
+      {
+        "player": "Giannis Antetokounmpo",
+        "market": "points",
+        "line": 34.5,
+        "confidence": 38.38181333900337,
+        "risk": "very_high",
+        "odds": 100
+      },
+      {
+        "player": "LeBron James",
+        "market": "points",
+        "line": 25.5,
+        "confidence": 38.115777120936016,
+        "risk": "very_high",
+        "odds": 100
+      },
+      {
+        "player": "Stephen Curry",
+        "market": "points",
+        "line": 28.5,
+        "confidence": 37.94612376303099,
+        "risk": "very_high",
+        "odds": 100
+      },
+      {
+        "player": "Stephen Curry",
+        "market": "threesMade",
+        "line": 5.5,
+        "confidence": 35.69310482869076,
+        "risk": "very_high",
+        "odds": 100
+      }
+    ]
+  },
+  {
+    "id": "parlay_1767798041913",
+    "timestamp": "2026-01-07T15:00:41.913Z",
+    "options": {
+      "legs": 3,
+      "mode": "moonshot",
+      "window": "last_5"
+    },
+    "meta": {
+      "totalOdds": "+404",
+      "overallRisk": "Moderate"
+    },
+    "picks": [
+      {
+        "player": "Giannis Antetokounmpo",
+        "market": "points",
+        "line": 34.5,
+        "confidence": 78.50114254516569,
+        "risk": "low",
+        "odds": -200
+      },
+      {
+        "player": "LeBron James",
+        "market": "points",
+        "line": 25.5,
+        "confidence": 57.933608833790025,
+        "risk": "high",
+        "odds": -120
+      },
+      {
+        "player": "Stephen Curry",
+        "market": "points",
+        "line": 28.5,
+        "confidence": 57.93105968850155,
+        "risk": "high",
+        "odds": -120
+      }
+    ]
+  },
+  {
+    "id": "parlay_1767798041922",
+    "timestamp": "2026-01-07T15:00:41.922Z",
+    "options": {
+      "legs": 3,
+      "mode": "normal",
+      "window": "last_10"
+    },
+    "meta": {
+      "totalOdds": "+516",
+      "overallRisk": "High"
+    },
+    "picks": [
+      {
+        "player": "Giannis Antetokounmpo",
+        "market": "points",
+        "line": 34.5,
+        "confidence": 58.38181333900337,
+        "risk": "high",
+        "odds": -120
+      },
+      {
+        "player": "LeBron James",
+        "market": "points",
+        "line": 25.5,
+        "confidence": 58.115777120936016,
+        "risk": "high",
+        "odds": -120
+      },
+      {
+        "player": "Stephen Curry",
+        "market": "points",
+        "line": 28.5,
+        "confidence": 57.94612376303099,
+        "risk": "high",
+        "odds": -120
+      }
+    ]
+  }
+]
